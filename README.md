@@ -1,10 +1,12 @@
 # weather_app
 Expo를 이용한 리액트 네이티브 날씨 앱
 
+
 ## 리액트 네이티브 기본 프로젝트
 - 스크롤 뷰를 이용한 가로, 세로 스크롤 구현 
 - expo location을 이용한 위치 정보 
 - 오픈 API를 이용한 날씨 앱 구현 
+
 
 ## 디자인 
 https://www.behance.net/gallery/120299981/Weather-App-UI-Project 
